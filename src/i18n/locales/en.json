@@ -1,0 +1,105 @@
+{
+  "common": {
+    "next": "Next",
+    "back": "Back",
+    "done": "Done!",
+    "correct": "Correct! 🎉",
+    "wrong": "Try again!",
+    "score": "Score",
+    "stars": "Stars",
+    "retry": "Try again",
+    "continue": "Continue",
+    "of": "of",
+    "loading": "Loading..."
+  },
+  "welcome": {
+    "title": "LiteroQuest",
+    "subtitle": "Let's learn to read!",
+    "chooseLang": "Choose your language:",
+    "start": "Let's go! 🚀"
+  },
+  "profile": {
+    "selectTitle": "Who are you?",
+    "addNew": "+ New profile",
+    "createTitle": "New profile",
+    "namePlaceholder": "Write your name...",
+    "chooseAvatar": "Choose your avatar:",
+    "create": "Create profile!",
+    "nameRequired": "Please enter a name!"
+  },
+  "home": {
+    "hello": "Hi, {{name}}!",
+    "alphabet": "Alphabet",
+    "alphabetDesc": "Learn all the letters",
+    "phonics": "Phonics",
+    "phonicsDesc": "Recognize sounds",
+    "words": "Words",
+    "wordsDesc": "Read words",
+    "progress": "Progress",
+    "progressDesc": "How much you learned",
+    "switchLang": "Switch language"
+  },
+  "alphabet": {
+    "title": "Alphabet",
+    "learned": "Learned:",
+    "subtitle": "Tap a letter to learn it!"
+  },
+  "letterDetail": {
+    "hearLetter": "Hear the letter",
+    "hearWord": "Hear the word",
+    "exampleWord": "Example word:",
+    "learnedIt": "I learned it! ✓",
+    "alreadyLearned": "I know this! ⭐"
+  },
+  "phonics": {
+    "title": "Phonics",
+    "instruction": "What letter does it start with?",
+    "round": "Round {{current}} of {{total}}",
+    "resultTitle": "Well done!",
+    "resultScore": "You got {{score}} out of {{total}} correct!",
+    "perfect": "Perfect! You're a champion! 🏆",
+    "great": "Excellent! Keep it up! 🌟",
+    "good": "Good! Keep practising! 👍",
+    "tryAgain": "Don't give up, try again! 💪",
+    "playAgain": "Play again",
+    "goHome": "Home"
+  },
+  "words": {
+    "title": "Words",
+    "instruction": "What word is this?",
+    "round": "Round {{current}} of {{total}}",
+    "tap": "Tap the correct word!",
+    "resultTitle": "Well done!",
+    "resultScore": "You recognised {{score}} out of {{total}} words!",
+    "perfect": "Perfect! You're a real reader! 📚",
+    "great": "Excellent! Keep going! 🌟",
+    "good": "Good! Try again! 👍",
+    "tryAgain": "Don't give up, try again! 💪",
+    "playAgain": "Play again",
+    "goHome": "Home"
+  },
+  "progress": {
+    "title": "My Progress",
+    "lettersLearned": "Letters learned",
+    "phonicsBest": "Best score — Phonics",
+    "wordsBest": "Best score — Words",
+    "totalStars": "Total stars",
+    "achievements": "Achievements",
+    "noProgress": "No progress yet. Let's play!",
+    "keepGoing": "Keep learning! 🚀"
+  },
+  "achievements": {
+    "firstLetter": "First letter!",
+    "firstLetterDesc": "You learned your first letter",
+    "allVowels": "Vowel master!",
+    "allVowelsDesc": "You learned all vowels",
+    "halfAlphabet": "Half the alphabet!",
+    "halfAlphabetDesc": "You learned 15+ letters",
+    "fullAlphabet": "Full alphabet!",
+    "fullAlphabetDesc": "You learned every letter",
+    "phonicsPerfect": "Perfect phonics!",
+    "phonicsPerfectDesc": "10/10 in Phonics",
+    "wordsPerfect": "Perfect words!",
+    "wordsPerfectDesc": "10/10 in Words"
+  }
+}

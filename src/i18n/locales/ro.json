@@ -1,0 +1,105 @@
+{
+  "common": {
+    "next": "Următorul",
+    "back": "Înapoi",
+    "done": "Gata!",
+    "correct": "Corect! 🎉",
+    "wrong": "Încearcă din nou!",
+    "score": "Scor",
+    "stars": "Stele",
+    "retry": "Încearcă din nou",
+    "continue": "Continuă",
+    "of": "din",
+    "loading": "Se încarcă..."
+  },
+  "welcome": {
+    "title": "LiteroQuest",
+    "subtitle": "Învățăm să citim!",
+    "chooseLang": "Alege limba ta:",
+    "start": "Să începem! 🚀"
+  },
+  "profile": {
+    "selectTitle": "Cine ești?",
+    "addNew": "+ Profil nou",
+    "createTitle": "Profil nou",
+    "namePlaceholder": "Scrie-ți numele...",
+    "chooseAvatar": "Alege-ți avatarul:",
+    "create": "Creează profil!",
+    "nameRequired": "Te rog scrieți un nume!"
+  },
+  "home": {
+    "hello": "Bună, {{name}}!",
+    "alphabet": "Alfabet",
+    "alphabetDesc": "Învață toate literele",
+    "phonics": "Sunete",
+    "phonicsDesc": "Recunoaște sunetele",
+    "words": "Cuvinte",
+    "wordsDesc": "Citește cuvinte",
+    "progress": "Progres",
+    "progressDesc": "Cât ai învățat",
+    "switchLang": "Schimbă limba"
+  },
+  "alphabet": {
+    "title": "Alfabetul",
+    "learned": "Învățate:",
+    "subtitle": "Apasă pe o literă ca să înveți!"
+  },
+  "letterDetail": {
+    "hearLetter": "Ascultă litera",
+    "hearWord": "Ascultă cuvântul",
+    "exampleWord": "Cuvânt:",
+    "learnedIt": "Am învățat! ✓",
+    "alreadyLearned": "Știu deja! ⭐"
+  },
+  "phonics": {
+    "title": "Sunete",
+    "instruction": "Cu ce literă începe?",
+    "round": "Runda {{current}} din {{total}}",
+    "resultTitle": "Bravo!",
+    "resultScore": "Ai răspuns corect la {{score}} din {{total}}!",
+    "perfect": "Perfect! Ești campion! 🏆",
+    "great": "Excelent! Continuă tot așa! 🌟",
+    "good": "Bine! Mai exersează puțin! 👍",
+    "tryAgain": "Nu te descuraja, încearcă din nou! 💪",
+    "playAgain": "Joacă din nou",
+    "goHome": "Acasă"
+  },
+  "words": {
+    "title": "Cuvinte",
+    "instruction": "Ce cuvânt este acesta?",
+    "round": "Runda {{current}} din {{total}}",
+    "tap": "Apasă pe cuvântul potrivit!",
+    "resultTitle": "Bravo!",
+    "resultScore": "Ai recunoscut {{score}} din {{total}} cuvinte!",
+    "perfect": "Perfect! Ești un cititor adevărat! 📚",
+    "great": "Excelent! Mergi mai departe! 🌟",
+    "good": "Bine! Mai încearcă! 👍",
+    "tryAgain": "Nu te descuraja, încearcă din nou! 💪",
+    "playAgain": "Joacă din nou",
+    "goHome": "Acasă"
+  },
+  "progress": {
+    "title": "Progresul meu",
+    "lettersLearned": "Litere învățate",
+    "phonicsBest": "Cel mai bun scor - Sunete",
+    "wordsBest": "Cel mai bun scor - Cuvinte",
+    "totalStars": "Stele totale",
+    "achievements": "Realizări",
+    "noProgress": "Încă nu ai progresat. Hai să jucăm!",
+    "keepGoing": "Continuă să înveți! 🚀"
+  },
+  "achievements": {
+    "firstLetter": "Prima literă!",
+    "firstLetterDesc": "Ai învățat prima literă",
+    "allVowels": "Vocale maestru!",
+    "allVowelsDesc": "Ai învățat toate vocalele",
+    "halfAlphabet": "Jumătate din alfabet!",
+    "halfAlphabetDesc": "Ai învățat 15+ litere",
+    "fullAlphabet": "Alfabet complet!",
+    "fullAlphabetDesc": "Ai învățat toate literele",
+    "phonicsPerfect": "Fonetică perfectă!",
+    "phonicsPerfectDesc": "10/10 la Sunete",
+    "wordsPerfect": "Cuvinte perfecte!",
+    "wordsPerfectDesc": "10/10 la Cuvinte"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "LiteroQuest",
+    "slug": "literoquest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF9F0"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.literoquest.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF9F0"
+      },
+      "package": "com.literoquest.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-localization"
+    ],
+    "newArchEnabled": false
+  }
+}
