@@ -1,4 +1,7 @@
 .env
+*.service-account.json
+service-account.json
+.claude/
 /tmp
 /out-tsc
 

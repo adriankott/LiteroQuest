@@ -1,0 +1,803 @@
+{
+  "generated": {
+    "phonetic_a": {
+      "at": "2026-04-28T07:52:16.533Z",
+      "bytes": 4416,
+      "file": "phonetics/a.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_a_breve": {
+      "at": "2026-04-28T07:52:17.155Z",
+      "bytes": 5184,
+      "file": "phonetics/a_breve.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_a_circ": {
+      "at": "2026-04-28T07:52:17.760Z",
+      "bytes": 4800,
+      "file": "phonetics/a_circ.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_be": {
+      "at": "2026-04-28T07:52:18.273Z",
+      "bytes": 5376,
+      "file": "phonetics/be.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ce": {
+      "at": "2026-04-28T07:52:18.782Z",
+      "bytes": 5184,
+      "file": "phonetics/ce.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_de": {
+      "at": "2026-04-28T07:52:19.138Z",
+      "bytes": 5376,
+      "file": "phonetics/de.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_e": {
+      "at": "2026-04-28T07:52:19.514Z",
+      "bytes": 4800,
+      "file": "phonetics/e.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_fe": {
+      "at": "2026-04-28T07:52:19.884Z",
+      "bytes": 5376,
+      "file": "phonetics/fe.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ghe": {
+      "at": "2026-04-28T07:52:20.267Z",
+      "bytes": 5568,
+      "file": "phonetics/ghe.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ha": {
+      "at": "2026-04-28T07:52:20.784Z",
+      "bytes": 5184,
+      "file": "phonetics/ha.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_i": {
+      "at": "2026-04-28T07:52:21.225Z",
+      "bytes": 4800,
+      "file": "phonetics/i.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_i_circ": {
+      "at": "2026-04-28T07:52:21.593Z",
+      "bytes": 4416,
+      "file": "phonetics/i_circ.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_je": {
+      "at": "2026-04-28T07:52:21.929Z",
+      "bytes": 5376,
+      "file": "phonetics/je.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ka": {
+      "at": "2026-04-28T07:52:22.470Z",
+      "bytes": 4800,
+      "file": "phonetics/ka.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_le": {
+      "at": "2026-04-28T07:52:22.981Z",
+      "bytes": 4992,
+      "file": "phonetics/le.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_me": {
+      "at": "2026-04-28T07:52:23.396Z",
+      "bytes": 5376,
+      "file": "phonetics/me.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ne": {
+      "at": "2026-04-28T07:52:24.109Z",
+      "bytes": 5184,
+      "file": "phonetics/ne.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_o": {
+      "at": "2026-04-28T07:52:24.501Z",
+      "bytes": 4224,
+      "file": "phonetics/o.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_pe": {
+      "at": "2026-04-28T07:52:25.340Z",
+      "bytes": 4608,
+      "file": "phonetics/pe.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ku": {
+      "at": "2026-04-28T07:52:25.859Z",
+      "bytes": 4800,
+      "file": "phonetics/ku.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_re": {
+      "at": "2026-04-28T07:52:26.218Z",
+      "bytes": 5184,
+      "file": "phonetics/re.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_se": {
+      "at": "2026-04-28T07:52:26.720Z",
+      "bytes": 4992,
+      "file": "phonetics/se.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_she": {
+      "at": "2026-04-28T07:52:27.076Z",
+      "bytes": 5376,
+      "file": "phonetics/she.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_te": {
+      "at": "2026-04-28T07:52:27.561Z",
+      "bytes": 4416,
+      "file": "phonetics/te.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_tze": {
+      "at": "2026-04-28T07:52:28.087Z",
+      "bytes": 5184,
+      "file": "phonetics/tze.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_u": {
+      "at": "2026-04-28T07:52:28.819Z",
+      "bytes": 4416,
+      "file": "phonetics/u.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ve": {
+      "at": "2026-04-28T07:52:29.195Z",
+      "bytes": 5568,
+      "file": "phonetics/ve.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_dublu_ve": {
+      "at": "2026-04-28T07:52:29.693Z",
+      "bytes": 7680,
+      "file": "phonetics/dublu_ve.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ics": {
+      "at": "2026-04-28T07:52:30.167Z",
+      "bytes": 6336,
+      "file": "phonetics/ics.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_i_grec": {
+      "at": "2026-04-28T07:52:30.514Z",
+      "bytes": 7296,
+      "file": "phonetics/i_grec.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "phonetic_ze": {
+      "at": "2026-04-28T07:52:31.036Z",
+      "bytes": 5568,
+      "file": "phonetics/ze.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_arici": {
+      "at": "2026-04-28T07:52:31.993Z",
+      "bytes": 6912,
+      "file": "words/arici.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_asta": {
+      "at": "2026-04-28T07:52:32.384Z",
+      "bytes": 6912,
+      "file": "words/asta.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_anca": {
+      "at": "2026-04-28T07:52:32.741Z",
+      "bytes": 6336,
+      "file": "words/anca.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_balon": {
+      "at": "2026-04-28T07:52:33.203Z",
+      "bytes": 7488,
+      "file": "words/balon.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_casa": {
+      "at": "2026-04-28T07:52:33.732Z",
+      "bytes": 6528,
+      "file": "words/casa.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_dinozaur": {
+      "at": "2026-04-28T07:52:34.059Z",
+      "bytes": 9216,
+      "file": "words/dinozaur.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_elefant": {
+      "at": "2026-04-28T07:52:34.552Z",
+      "bytes": 8448,
+      "file": "words/elefant.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_floare": {
+      "at": "2026-04-28T07:52:35.063Z",
+      "bytes": 7104,
+      "file": "words/floare.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_gaina": {
+      "at": "2026-04-28T07:52:35.577Z",
+      "bytes": 7488,
+      "file": "words/gaina.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_harta": {
+      "at": "2026-04-28T07:52:36.010Z",
+      "bytes": 7104,
+      "file": "words/harta.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_iepure": {
+      "at": "2026-04-28T07:52:36.445Z",
+      "bytes": 8064,
+      "file": "words/iepure.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_inger": {
+      "at": "2026-04-28T07:52:36.907Z",
+      "bytes": 6336,
+      "file": "words/inger.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_jucarie": {
+      "at": "2026-04-28T07:52:37.419Z",
+      "bytes": 8640,
+      "file": "words/jucarie.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_koala": {
+      "at": "2026-04-28T07:52:38.033Z",
+      "bytes": 7296,
+      "file": "words/koala.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_leu": {
+      "at": "2026-04-28T07:52:38.443Z",
+      "bytes": 5376,
+      "file": "words/leu.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_morcov": {
+      "at": "2026-04-28T07:52:38.957Z",
+      "bytes": 7872,
+      "file": "words/morcov.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_nor": {
+      "at": "2026-04-28T07:52:39.365Z",
+      "bytes": 5568,
+      "file": "words/nor.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_ochi": {
+      "at": "2026-04-28T07:52:39.876Z",
+      "bytes": 5376,
+      "file": "words/ochi.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_peste": {
+      "at": "2026-04-28T07:52:40.389Z",
+      "bytes": 6720,
+      "file": "words/peste.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_qatar": {
+      "at": "2026-04-28T07:52:40.981Z",
+      "bytes": 6720,
+      "file": "words/qatar.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_rata": {
+      "at": "2026-04-28T07:52:41.823Z",
+      "bytes": 6720,
+      "file": "words/rata.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_soare": {
+      "at": "2026-04-28T07:52:42.335Z",
+      "bytes": 6720,
+      "file": "words/soare.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_sarpe": {
+      "at": "2026-04-28T07:52:42.771Z",
+      "bytes": 7488,
+      "file": "words/sarpe.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_tigru": {
+      "at": "2026-04-28T07:52:43.213Z",
+      "bytes": 6336,
+      "file": "words/tigru.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_tantar": {
+      "at": "2026-04-28T07:52:43.670Z",
+      "bytes": 7104,
+      "file": "words/tantar.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_urs": {
+      "at": "2026-04-28T07:52:44.125Z",
+      "bytes": 6144,
+      "file": "words/urs.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_vulpe": {
+      "at": "2026-04-28T07:52:44.702Z",
+      "bytes": 7488,
+      "file": "words/vulpe.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_wombat": {
+      "at": "2026-04-28T07:52:45.099Z",
+      "bytes": 7296,
+      "file": "words/wombat.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_xilofon": {
+      "at": "2026-04-28T07:52:45.511Z",
+      "bytes": 9024,
+      "file": "words/xilofon.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_yoga": {
+      "at": "2026-04-28T07:52:46.125Z",
+      "bytes": 6912,
+      "file": "words/yoga.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_zebra": {
+      "at": "2026-04-28T07:52:46.494Z",
+      "bytes": 6720,
+      "file": "words/zebra.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_mama": {
+      "at": "2026-04-28T07:52:46.840Z",
+      "bytes": 6528,
+      "file": "words/mama.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_tata": {
+      "at": "2026-04-28T07:52:47.251Z",
+      "bytes": 6144,
+      "file": "words/tata.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_apa": {
+      "at": "2026-04-28T07:52:47.600Z",
+      "bytes": 5952,
+      "file": "words/apa.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_sare": {
+      "at": "2026-04-28T07:52:47.957Z",
+      "bytes": 6720,
+      "file": "words/sare.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_paine": {
+      "at": "2026-04-28T07:52:48.480Z",
+      "bytes": 6720,
+      "file": "words/paine.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_mere": {
+      "at": "2026-04-28T07:52:48.855Z",
+      "bytes": 6528,
+      "file": "words/mere.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_masa": {
+      "at": "2026-04-28T07:52:49.297Z",
+      "bytes": 6912,
+      "file": "words/masa.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_luna": {
+      "at": "2026-04-28T07:52:49.813Z",
+      "bytes": 6528,
+      "file": "words/luna.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_stea": {
+      "at": "2026-04-28T07:52:50.223Z",
+      "bytes": 5568,
+      "file": "words/stea.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_pisica": {
+      "at": "2026-04-28T07:52:50.564Z",
+      "bytes": 7872,
+      "file": "words/pisica.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_caine": {
+      "at": "2026-04-28T07:52:51.042Z",
+      "bytes": 6720,
+      "file": "words/caine.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_pasare": {
+      "at": "2026-04-28T07:52:51.451Z",
+      "bytes": 7488,
+      "file": "words/pasare.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_copac": {
+      "at": "2026-04-28T07:52:51.899Z",
+      "bytes": 7104,
+      "file": "words/copac.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_carte": {
+      "at": "2026-04-28T07:52:52.241Z",
+      "bytes": 6912,
+      "file": "words/carte.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_minge": {
+      "at": "2026-04-28T07:52:52.581Z",
+      "bytes": 6912,
+      "file": "words/minge.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_creion": {
+      "at": "2026-04-28T07:52:52.989Z",
+      "bytes": 7104,
+      "file": "words/creion.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_bicicleta": {
+      "at": "2026-04-28T07:52:53.499Z",
+      "bytes": 9408,
+      "file": "words/bicicleta.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_calculator": {
+      "at": "2026-04-28T07:52:53.954Z",
+      "bytes": 9600,
+      "file": "words/calculator.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_televizor": {
+      "at": "2026-04-28T07:52:54.457Z",
+      "bytes": 9216,
+      "file": "words/televizor.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_fluture": {
+      "at": "2026-04-28T07:52:54.933Z",
+      "bytes": 7872,
+      "file": "words/fluture.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_girafa": {
+      "at": "2026-04-28T07:52:55.444Z",
+      "bytes": 8064,
+      "file": "words/girafa.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_nas": {
+      "at": "2026-04-28T07:58:18.420Z",
+      "bytes": 6336,
+      "file": "words/nas.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_mana": {
+      "at": "2026-04-28T07:58:18.795Z",
+      "bytes": 6336,
+      "file": "words/mana.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_pat": {
+      "at": "2026-04-28T07:58:19.240Z",
+      "bytes": 5184,
+      "file": "words/pat.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_tren": {
+      "at": "2026-04-28T07:58:19.647Z",
+      "bytes": 5568,
+      "file": "words/tren.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_masina": {
+      "at": "2026-04-28T07:58:20.053Z",
+      "bytes": 8448,
+      "file": "words/masina.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_lapte": {
+      "at": "2026-04-28T07:58:20.409Z",
+      "bytes": 6912,
+      "file": "words/lapte.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_ou": {
+      "at": "2026-04-28T07:58:20.752Z",
+      "bytes": 4800,
+      "file": "words/ou.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_tort": {
+      "at": "2026-04-28T07:58:21.185Z",
+      "bytes": 5760,
+      "file": "words/tort.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_cal": {
+      "at": "2026-04-28T07:58:21.591Z",
+      "bytes": 5184,
+      "file": "words/cal.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_oaie": {
+      "at": "2026-04-28T07:58:21.937Z",
+      "bytes": 6912,
+      "file": "words/oaie.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_vaca": {
+      "at": "2026-04-28T07:58:22.297Z",
+      "bytes": 6912,
+      "file": "words/vaca.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_lup": {
+      "at": "2026-04-28T07:58:22.716Z",
+      "bytes": 5760,
+      "file": "words/lup.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_banana": {
+      "at": "2026-04-28T07:58:23.011Z",
+      "bytes": 7872,
+      "file": "words/banana.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_portocala": {
+      "at": "2026-04-28T07:58:23.390Z",
+      "bytes": 9600,
+      "file": "words/portocala.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_capsuna": {
+      "at": "2026-04-28T07:58:23.843Z",
+      "bytes": 7680,
+      "file": "words/capsuna.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_branza": {
+      "at": "2026-04-28T07:58:24.214Z",
+      "bytes": 7104,
+      "file": "words/branza.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_rosie": {
+      "at": "2026-04-28T07:58:24.588Z",
+      "bytes": 7872,
+      "file": "words/rosie.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_ciuperca": {
+      "at": "2026-04-28T07:58:24.952Z",
+      "bytes": 8256,
+      "file": "words/ciuperca.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_broasca": {
+      "at": "2026-04-28T07:58:25.246Z",
+      "bytes": 7872,
+      "file": "words/broasca.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_albina": {
+      "at": "2026-04-28T07:58:25.604Z",
+      "bytes": 8064,
+      "file": "words/albina.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_pinguin": {
+      "at": "2026-04-28T07:58:25.961Z",
+      "bytes": 8640,
+      "file": "words/pinguin.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_bufnita": {
+      "at": "2026-04-28T07:58:26.353Z",
+      "bytes": 8832,
+      "file": "words/bufnita.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_cerb": {
+      "at": "2026-04-28T07:58:26.717Z",
+      "bytes": 5760,
+      "file": "words/cerb.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_delfin": {
+      "at": "2026-04-28T07:58:27.099Z",
+      "bytes": 7488,
+      "file": "words/delfin.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_avion": {
+      "at": "2026-04-28T07:58:27.517Z",
+      "bytes": 7680,
+      "file": "words/avion.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_barca": {
+      "at": "2026-04-28T07:58:28.042Z",
+      "bytes": 7296,
+      "file": "words/barca.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_autobuz": {
+      "at": "2026-04-28T07:58:28.553Z",
+      "bytes": 9024,
+      "file": "words/autobuz.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_cheie": {
+      "at": "2026-04-28T07:58:28.866Z",
+      "bytes": 5952,
+      "file": "words/cheie.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_oglinda": {
+      "at": "2026-04-28T07:58:29.375Z",
+      "bytes": 8064,
+      "file": "words/oglinda.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_telefon": {
+      "at": "2026-04-28T07:58:29.883Z",
+      "bytes": 8256,
+      "file": "words/telefon.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_curcubeu": {
+      "at": "2026-04-28T07:58:30.398Z",
+      "bytes": 8640,
+      "file": "words/curcubeu.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_frunza": {
+      "at": "2026-04-28T07:58:30.953Z",
+      "bytes": 7488,
+      "file": "words/frunza.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_zapada": {
+      "at": "2026-04-28T07:58:31.311Z",
+      "bytes": 8256,
+      "file": "words/zapada.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_ciocolata": {
+      "at": "2026-04-28T07:58:31.829Z",
+      "bytes": 9024,
+      "file": "words/ciocolata.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_inghetata": {
+      "at": "2026-04-28T07:58:32.160Z",
+      "bytes": 9216,
+      "file": "words/inghetata.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_crocodil": {
+      "at": "2026-04-28T07:58:32.584Z",
+      "bytes": 8448,
+      "file": "words/crocodil.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_hipopotam": {
+      "at": "2026-04-28T07:58:33.061Z",
+      "bytes": 10368,
+      "file": "words/hipopotam.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_papagal": {
+      "at": "2026-04-28T07:58:33.572Z",
+      "bytes": 8448,
+      "file": "words/papagal.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_veverita": {
+      "at": "2026-04-28T07:58:33.898Z",
+      "bytes": 9408,
+      "file": "words/veverita.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_porumbel": {
+      "at": "2026-04-28T07:58:34.214Z",
+      "bytes": 8640,
+      "file": "words/porumbel.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_elicopter": {
+      "at": "2026-04-28T07:58:34.696Z",
+      "bytes": 9216,
+      "file": "words/elicopter.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_motocicleta": {
+      "at": "2026-04-28T07:58:35.050Z",
+      "bytes": 10560,
+      "file": "words/motocicleta.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_ambulanta": {
+      "at": "2026-04-28T07:58:35.721Z",
+      "bytes": 9984,
+      "file": "words/ambulanta.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_umbrela": {
+      "at": "2026-04-28T07:58:36.030Z",
+      "bytes": 7872,
+      "file": "words/umbrela.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_fotografie": {
+      "at": "2026-04-28T07:58:36.324Z",
+      "bytes": 10752,
+      "file": "words/fotografie.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_fereastra": {
+      "at": "2026-04-28T07:58:36.696Z",
+      "bytes": 9024,
+      "file": "words/fereastra.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_gradinita": {
+      "at": "2026-04-28T07:58:37.043Z",
+      "bytes": 9792,
+      "file": "words/gradinita.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_biblioteca": {
+      "at": "2026-04-28T07:58:37.384Z",
+      "bytes": 10368,
+      "file": "words/biblioteca.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    },
+    "word_acvariu": {
+      "at": "2026-04-28T07:58:37.871Z",
+      "bytes": 7872,
+      "file": "words/acvariu.mp3",
+      "voice": "ro-RO-Wavenet-A"
+    }
+  },
+  "last_run": "2026-04-28T07:58:37.871Z",
+  "voice": "ro-RO-Wavenet-A",
+  "summary": {
+    "total": 132,
+    "done": 132,
+    "remaining": 0
+  }
+}

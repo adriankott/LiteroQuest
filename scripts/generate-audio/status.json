@@ -1,9 +1,425 @@
 {
-  "generated": {},
-  "last_run": null,
+  "generated": {
+    "phonetic_a": {
+      "at": "2026-04-27T21:52:21.823Z",
+      "bytes": 10075,
+      "file": "phonetics/a.mp3"
+    },
+    "phonetic_a_breve": {
+      "at": "2026-04-27T21:52:23.408Z",
+      "bytes": 10911,
+      "file": "phonetics/a_breve.mp3"
+    },
+    "phonetic_a_circ": {
+      "at": "2026-04-27T21:52:24.991Z",
+      "bytes": 8403,
+      "file": "phonetics/a_circ.mp3"
+    },
+    "phonetic_be": {
+      "at": "2026-04-27T21:52:26.581Z",
+      "bytes": 12164,
+      "file": "phonetics/be.mp3"
+    },
+    "phonetic_ce": {
+      "at": "2026-04-27T21:52:28.154Z",
+      "bytes": 12164,
+      "file": "phonetics/ce.mp3"
+    },
+    "phonetic_de": {
+      "at": "2026-04-27T21:52:29.730Z",
+      "bytes": 10911,
+      "file": "phonetics/de.mp3"
+    },
+    "phonetic_e": {
+      "at": "2026-04-27T21:52:31.368Z",
+      "bytes": 10911,
+      "file": "phonetics/e.mp3"
+    },
+    "phonetic_fe": {
+      "at": "2026-04-27T21:52:32.935Z",
+      "bytes": 11328,
+      "file": "phonetics/fe.mp3"
+    },
+    "phonetic_ghe": {
+      "at": "2026-04-27T21:52:34.570Z",
+      "bytes": 12164,
+      "file": "phonetics/ghe.mp3"
+    },
+    "phonetic_ha": {
+      "at": "2026-04-27T21:52:36.206Z",
+      "bytes": 10911,
+      "file": "phonetics/ha.mp3"
+    },
+    "phonetic_i": {
+      "at": "2026-04-27T21:52:37.737Z",
+      "bytes": 10075,
+      "file": "phonetics/i.mp3"
+    },
+    "phonetic_i_circ": {
+      "at": "2026-04-27T21:52:39.306Z",
+      "bytes": 10911,
+      "file": "phonetics/i_circ.mp3"
+    },
+    "phonetic_je": {
+      "at": "2026-04-27T21:52:40.857Z",
+      "bytes": 10075,
+      "file": "phonetics/je.mp3"
+    },
+    "phonetic_ka": {
+      "at": "2026-04-27T21:52:42.423Z",
+      "bytes": 12164,
+      "file": "phonetics/ka.mp3"
+    },
+    "phonetic_le": {
+      "at": "2026-04-27T21:52:43.982Z",
+      "bytes": 11328,
+      "file": "phonetics/le.mp3"
+    },
+    "phonetic_me": {
+      "at": "2026-04-27T21:52:45.537Z",
+      "bytes": 12164,
+      "file": "phonetics/me.mp3"
+    },
+    "phonetic_ne": {
+      "at": "2026-04-27T21:52:47.085Z",
+      "bytes": 11328,
+      "file": "phonetics/ne.mp3"
+    },
+    "phonetic_o": {
+      "at": "2026-04-27T21:52:48.644Z",
+      "bytes": 10911,
+      "file": "phonetics/o.mp3"
+    },
+    "phonetic_pe": {
+      "at": "2026-04-27T21:52:50.231Z",
+      "bytes": 12164,
+      "file": "phonetics/pe.mp3"
+    },
+    "phonetic_ku": {
+      "at": "2026-04-27T21:52:51.802Z",
+      "bytes": 10075,
+      "file": "phonetics/ku.mp3"
+    },
+    "phonetic_re": {
+      "at": "2026-04-27T21:52:53.362Z",
+      "bytes": 13000,
+      "file": "phonetics/re.mp3"
+    },
+    "phonetic_se": {
+      "at": "2026-04-27T21:52:54.937Z",
+      "bytes": 12164,
+      "file": "phonetics/se.mp3"
+    },
+    "phonetic_she": {
+      "at": "2026-04-27T21:52:56.585Z",
+      "bytes": 13000,
+      "file": "phonetics/she.mp3"
+    },
+    "phonetic_te": {
+      "at": "2026-04-27T21:52:58.221Z",
+      "bytes": 12164,
+      "file": "phonetics/te.mp3"
+    },
+    "phonetic_tze": {
+      "at": "2026-04-27T21:52:59.831Z",
+      "bytes": 12164,
+      "file": "phonetics/tze.mp3"
+    },
+    "phonetic_u": {
+      "at": "2026-04-27T21:53:01.499Z",
+      "bytes": 10075,
+      "file": "phonetics/u.mp3"
+    },
+    "phonetic_ve": {
+      "at": "2026-04-27T21:53:03.058Z",
+      "bytes": 12164,
+      "file": "phonetics/ve.mp3"
+    },
+    "phonetic_dublu_ve": {
+      "at": "2026-04-27T21:53:04.653Z",
+      "bytes": 17598,
+      "file": "phonetics/dublu_ve.mp3"
+    },
+    "phonetic_ics": {
+      "at": "2026-04-27T21:53:06.315Z",
+      "bytes": 12164,
+      "file": "phonetics/ics.mp3"
+    },
+    "phonetic_i_grec": {
+      "at": "2026-04-27T21:53:07.917Z",
+      "bytes": 15090,
+      "file": "phonetics/i_grec.mp3"
+    },
+    "phonetic_ze": {
+      "at": "2026-04-27T21:53:09.496Z",
+      "bytes": 13000,
+      "file": "phonetics/ze.mp3"
+    },
+    "word_arici": {
+      "at": "2026-04-27T21:53:11.126Z",
+      "bytes": 15926,
+      "file": "words/arici.mp3"
+    },
+    "word_asta": {
+      "at": "2026-04-27T21:53:12.713Z",
+      "bytes": 14254,
+      "file": "words/asta.mp3"
+    },
+    "word_anca": {
+      "at": "2026-04-27T21:53:14.403Z",
+      "bytes": 14254,
+      "file": "words/anca.mp3"
+    },
+    "word_balon": {
+      "at": "2026-04-27T21:53:15.980Z",
+      "bytes": 15926,
+      "file": "words/balon.mp3"
+    },
+    "word_casa": {
+      "at": "2026-04-27T21:53:17.594Z",
+      "bytes": 15090,
+      "file": "words/casa.mp3"
+    },
+    "word_dinozaur": {
+      "at": "2026-04-27T21:53:19.215Z",
+      "bytes": 17598,
+      "file": "words/dinozaur.mp3"
+    },
+    "word_elefant": {
+      "at": "2026-04-27T21:53:20.823Z",
+      "bytes": 15926,
+      "file": "words/elefant.mp3"
+    },
+    "word_floare": {
+      "at": "2026-04-27T21:53:22.397Z",
+      "bytes": 15090,
+      "file": "words/floare.mp3"
+    },
+    "word_gaina": {
+      "at": "2026-04-27T21:53:23.986Z",
+      "bytes": 15090,
+      "file": "words/gaina.mp3"
+    },
+    "word_harta": {
+      "at": "2026-04-27T21:53:25.574Z",
+      "bytes": 15926,
+      "file": "words/harta.mp3"
+    },
+    "word_iepure": {
+      "at": "2026-04-27T21:53:27.208Z",
+      "bytes": 15926,
+      "file": "words/iepure.mp3"
+    },
+    "word_inger": {
+      "at": "2026-04-27T21:53:28.812Z",
+      "bytes": 15926,
+      "file": "words/inger.mp3"
+    },
+    "word_jucarie": {
+      "at": "2026-04-27T21:53:30.480Z",
+      "bytes": 16762,
+      "file": "words/jucarie.mp3"
+    },
+    "word_koala": {
+      "at": "2026-04-27T21:53:32.063Z",
+      "bytes": 16762,
+      "file": "words/koala.mp3"
+    },
+    "word_leu": {
+      "at": "2026-04-27T21:53:33.636Z",
+      "bytes": 13000,
+      "file": "words/leu.mp3"
+    },
+    "word_morcov": {
+      "at": "2026-04-27T21:53:35.234Z",
+      "bytes": 16762,
+      "file": "words/morcov.mp3"
+    },
+    "word_nor": {
+      "at": "2026-04-27T21:53:36.830Z",
+      "bytes": 13836,
+      "file": "words/nor.mp3"
+    },
+    "word_ochi": {
+      "at": "2026-04-27T21:53:38.396Z",
+      "bytes": 13836,
+      "file": "words/ochi.mp3"
+    },
+    "word_peste": {
+      "at": "2026-04-27T21:53:40.103Z",
+      "bytes": 16762,
+      "file": "words/peste.mp3"
+    },
+    "word_qatar": {
+      "at": "2026-04-27T21:53:41.688Z",
+      "bytes": 16762,
+      "file": "words/qatar.mp3"
+    },
+    "word_rata": {
+      "at": "2026-04-27T21:53:43.279Z",
+      "bytes": 15090,
+      "file": "words/rata.mp3"
+    },
+    "word_soare": {
+      "at": "2026-04-27T21:53:44.844Z",
+      "bytes": 15090,
+      "file": "words/soare.mp3"
+    },
+    "word_sarpe": {
+      "at": "2026-04-27T21:53:46.436Z",
+      "bytes": 15926,
+      "file": "words/sarpe.mp3"
+    },
+    "word_tigru": {
+      "at": "2026-04-27T21:53:48.093Z",
+      "bytes": 15926,
+      "file": "words/tigru.mp3"
+    },
+    "word_tantar": {
+      "at": "2026-04-27T21:53:49.695Z",
+      "bytes": 18016,
+      "file": "words/tantar.mp3"
+    },
+    "word_urs": {
+      "at": "2026-04-27T21:53:51.288Z",
+      "bytes": 14254,
+      "file": "words/urs.mp3"
+    },
+    "word_vulpe": {
+      "at": "2026-04-27T21:53:52.905Z",
+      "bytes": 14254,
+      "file": "words/vulpe.mp3"
+    },
+    "word_wombat": {
+      "at": "2026-04-27T21:53:54.491Z",
+      "bytes": 15090,
+      "file": "words/wombat.mp3"
+    },
+    "word_xilofon": {
+      "at": "2026-04-27T21:53:56.183Z",
+      "bytes": 15926,
+      "file": "words/xilofon.mp3"
+    },
+    "word_yoga": {
+      "at": "2026-04-27T21:53:57.821Z",
+      "bytes": 13836,
+      "file": "words/yoga.mp3"
+    },
+    "word_zebra": {
+      "at": "2026-04-27T21:53:59.458Z",
+      "bytes": 15090,
+      "file": "words/zebra.mp3"
+    },
+    "word_mama": {
+      "at": "2026-04-27T21:54:01.098Z",
+      "bytes": 15090,
+      "file": "words/mama.mp3"
+    },
+    "word_tata": {
+      "at": "2026-04-27T21:54:02.699Z",
+      "bytes": 15926,
+      "file": "words/tata.mp3"
+    },
+    "word_apa": {
+      "at": "2026-04-27T21:54:04.375Z",
+      "bytes": 13836,
+      "file": "words/apa.mp3"
+    },
+    "word_sare": {
+      "at": "2026-04-27T21:54:05.971Z",
+      "bytes": 14254,
+      "file": "words/sare.mp3"
+    },
+    "word_paine": {
+      "at": "2026-04-27T21:54:07.652Z",
+      "bytes": 16762,
+      "file": "words/paine.mp3"
+    },
+    "word_mere": {
+      "at": "2026-04-27T21:54:09.289Z",
+      "bytes": 15926,
+      "file": "words/mere.mp3"
+    },
+    "word_masa": {
+      "at": "2026-04-27T21:54:10.927Z",
+      "bytes": 15090,
+      "file": "words/masa.mp3"
+    },
+    "word_luna": {
+      "at": "2026-04-27T21:54:12.502Z",
+      "bytes": 13836,
+      "file": "words/luna.mp3"
+    },
+    "word_stea": {
+      "at": "2026-04-27T21:54:14.098Z",
+      "bytes": 15090,
+      "file": "words/stea.mp3"
+    },
+    "word_pisica": {
+      "at": "2026-04-27T21:54:15.684Z",
+      "bytes": 16762,
+      "file": "words/pisica.mp3"
+    },
+    "word_caine": {
+      "at": "2026-04-27T21:54:17.287Z",
+      "bytes": 15926,
+      "file": "words/caine.mp3"
+    },
+    "word_pasare": {
+      "at": "2026-04-27T21:54:18.891Z",
+      "bytes": 17598,
+      "file": "words/pasare.mp3"
+    },
+    "word_copac": {
+      "at": "2026-04-27T21:54:20.605Z",
+      "bytes": 15090,
+      "file": "words/copac.mp3"
+    },
+    "word_carte": {
+      "at": "2026-04-27T21:54:22.184Z",
+      "bytes": 16762,
+      "file": "words/carte.mp3"
+    },
+    "word_minge": {
+      "at": "2026-04-27T21:54:23.832Z",
+      "bytes": 14254,
+      "file": "words/minge.mp3"
+    },
+    "word_creion": {
+      "at": "2026-04-27T21:54:25.468Z",
+      "bytes": 15926,
+      "file": "words/creion.mp3"
+    },
+    "word_bicicleta": {
+      "at": "2026-04-27T21:54:27.110Z",
+      "bytes": 17598,
+      "file": "words/bicicleta.mp3"
+    },
+    "word_calculator": {
+      "at": "2026-04-27T21:54:28.720Z",
+      "bytes": 17598,
+      "file": "words/calculator.mp3"
+    },
+    "word_televizor": {
+      "at": "2026-04-27T21:54:30.386Z",
+      "bytes": 18852,
+      "file": "words/televizor.mp3"
+    },
+    "word_fluture": {
+      "at": "2026-04-27T21:54:32.021Z",
+      "bytes": 15926,
+      "file": "words/fluture.mp3"
+    },
+    "word_girafa": {
+      "at": "2026-04-27T21:54:33.661Z",
+      "bytes": 17598,
+      "file": "words/girafa.mp3"
+    }
+  },
+  "last_run": "2026-04-27T22:06:33.640Z",
   "summary": {
     "total": 83,
-    "done": 0,
-    "remaining": 83
+    "done": 83,
+    "remaining": 0
   }
 }

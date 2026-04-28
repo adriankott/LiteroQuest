@@ -25,8 +25,20 @@
     },
     "plugins": [
       "expo-sqlite",
-      "expo-localization"
+      "expo-localization",
+      "expo-audio"
     ],
-    "newArchEnabled": false
+    "newArchEnabled": false,
+    "extra": {
+      "eas": {
+        "projectId": "9c5ff320-3ddd-4c61-aa7b-a5c921797a3a"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/9c5ff320-3ddd-4c61-aa7b-a5c921797a3a"
+    }
   }
 }
