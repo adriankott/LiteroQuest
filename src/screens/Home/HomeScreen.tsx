@@ -29,6 +29,7 @@ const GAME_CARDS: GameCard[] = [
   { key: 'Alphabet', emoji: '🔤', titleKey: 'home.alphabet', descKey: 'home.alphabetDesc', color: colors.primary },
   { key: 'Phonics', emoji: '🔊', titleKey: 'home.phonics', descKey: 'home.phonicsDesc', color: colors.secondary },
   { key: 'Words', emoji: '📖', titleKey: 'home.words', descKey: 'home.wordsDesc', color: colors.purple },
+  { key: 'Adventure', emoji: '🗺️', titleKey: 'home.adventure', descKey: 'home.adventureDesc', color: '#60A5FA' },
   { key: 'Progress', emoji: '📊', titleKey: 'home.progress', descKey: 'home.progressDesc', color: colors.accent },
 ];
 

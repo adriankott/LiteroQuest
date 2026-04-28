@@ -4,6 +4,8 @@ import { ActivityIndicator, View } from 'react-native';
 import { useApp } from '../context/AppContext';
 import { AlphabetScreen } from '../screens/Alphabet/AlphabetScreen';
 import { LetterDetailScreen } from '../screens/Alphabet/LetterDetailScreen';
+import { AdventureScreen } from '../screens/Adventure/AdventureScreen';
+import { AdventureNodeGameScreen } from '../screens/Adventure/AdventureNodeGameScreen';
 import { HomeScreen } from '../screens/Home/HomeScreen';
 import { PhonicsGameScreen } from '../screens/Phonics/PhonicsGameScreen';
 import { CreateProfileScreen } from '../screens/Profile/CreateProfileScreen';
@@ -47,6 +49,8 @@ export function RootNavigator() {
       <Stack.Screen name="Phonics" component={PhonicsGameScreen} />
       <Stack.Screen name="Words" component={WordsGameScreen} />
       <Stack.Screen name="Progress" component={ProgressScreen} />
+      <Stack.Screen name="Adventure" component={AdventureScreen} />
+      <Stack.Screen name="AdventureNode" component={AdventureNodeGameScreen} />
     </Stack.Navigator>
   );
 }

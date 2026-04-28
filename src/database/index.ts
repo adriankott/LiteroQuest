@@ -31,6 +31,20 @@ export async function initDatabase(): Promise<void> {
       key   TEXT PRIMARY KEY,
       value TEXT NOT NULL
     );
+
+    CREATE TABLE IF NOT EXISTS adventure_runs (
+      id              INTEGER PRIMARY KEY AUTOINCREMENT,
+      profile_id      INTEGER NOT NULL,
+      current_floor   INTEGER NOT NULL DEFAULT 0,
+      last_node_id    TEXT,
+      completed_nodes TEXT    NOT NULL DEFAULT '{}',
+      map_data        TEXT    NOT NULL,
+      status          TEXT    NOT NULL DEFAULT 'active',
+      started_at      INTEGER NOT NULL,
+      completed_at    INTEGER,
+      total_stars     INTEGER NOT NULL DEFAULT 0,
+      FOREIGN KEY (profile_id) REFERENCES profiles(id)
+    );
   `);
 }
 
